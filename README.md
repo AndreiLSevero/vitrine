@@ -1,1 +1,5 @@
-# vitrine
+# Projeto inicial da disciplina
+
+## Andrei Lopes Severo
+
+...
